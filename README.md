@@ -8,7 +8,7 @@ A repository with example configs for relasing Helm charts via Flux.
 
 The Flux Helm operator provides an extension to Flux
 (https://github.com/weaveworks/flux) to be able to automate Helm Chart
-releases. In other words, given a desired state as a file in git, it
+releases. In other words,  given a desired state as a file in git, it
 does `helm install` and `helm upgrade` for you.
 
 A Chart release is described through a
