@@ -91,4 +91,4 @@ metrics:
 resources:
   requests:
     memory: 256Mi
-    cpu: 250m
+    cpu: 1250m
